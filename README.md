@@ -8,3 +8,14 @@ Cards and wallpapers v0.99: **[pokerdon.zip](https://drive.google.com/file/d/1IS
 Mirror of cards original creators site: [mirror](https://drive.google.com/file/d/1TxsI5EmXcHjCb__so6X-RcY4wAXKt5dz/view?usp=drive_link)
 
 Svg files of the original cardsetsL modified cards, [svg.zip](https://drive.google.com/file/d/1aAP6NY6Z5t4sLHY82xiqtPf8c_ImxIh3/view?usp=drive_link)
+
+
+
+The assets in the pokerdon.zip file are derived from the:  
+-Aisleriot project (https://gitlab.gnome.org/GNOME/aisleriot).   
+Licences are in the aisleriot-master folder  
+Full source, licenses, and modified svg files for these assets are included in the [mirror](https://drive.google.com/file/d/1TxsI5EmXcHjCb__so6X-RcY4wAXKt5dz/view?usp=drive_link) 
+
+-Libkdegames project (https://invent.kde.org/games/libkdegames).   
+Licences are in the libkdegames-masterfolder  
+Full source, licenses, and modified svg files for these assets are included in the [mirror](https://drive.google.com/file/d/1TxsI5EmXcHjCb__so6X-RcY4wAXKt5dz/view?usp=drive_link)
