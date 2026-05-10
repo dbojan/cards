@@ -10,7 +10,7 @@ Cards and wallpapers v0.99: **[pokerdon.zip](https://drive.google.com/file/d/1IS
 
 You should have Documents/pokerdon/cards, and Documents/pokerdon/wallpapers, and licences folders.
 
-That is it, restart the game :)
+That is it, restart the game, and enjoy :)
 
 ## more info
 
