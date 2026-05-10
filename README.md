@@ -32,3 +32,9 @@ Full source, licenses, and modified svg files for these assets are included in t
 -Libkdegames project (https://invent.kde.org/games/libkdegames).   
 Licences are in the libkdegames-masterfolder  
 Full source, licenses, and modified svg files for these assets are included in the [mirror](https://drive.google.com/file/d/1TxsI5EmXcHjCb__so6X-RcY4wAXKt5dz/view?usp=drive_link)
+
+
+## todo  
+
+add slavic costumes, and gnomangelo bitmap and some other cardsets.
+
