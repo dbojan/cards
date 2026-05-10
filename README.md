@@ -8,6 +8,12 @@ Can be used with **Poker Double or Nothing** game [steam site](https://store.ste
 
 Cards and wallpapers v0.99: **[pokerdon.zip](https://drive.google.com/file/d/1ISWNwLarkwJm1IEgLDc1-E4Xcu89av9z/view?usp=drive_link)** download zip file, and uncompress to Documents folder. 
 
+You should have Documents/pokerdon/cards, and Documents/pokerdon/wallpapers, and licences folders.
+
+That is it, restart the game :)
+
+## more info
+
 Cards and wallpapers are in png format. 
 
 Mirror of cards original creators site: [mirror](https://drive.google.com/file/d/1TxsI5EmXcHjCb__so6X-RcY4wAXKt5dz/view?usp=drive_link)
