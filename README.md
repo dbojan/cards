@@ -3,6 +3,9 @@ cardsets and wallpapers
 
 Can be used with **Poker Double or Nothing** game [steam site](https://store.steampowered.com/app/4701190/), https://github.com/dbojan/poker_double_or_nothing, 
 
+
+## how to use
+
 Cards and wallpapers v0.99: **[pokerdon.zip](https://drive.google.com/file/d/1ISWNwLarkwJm1IEgLDc1-E4Xcu89av9z/view?usp=drive_link)** download zip file, and uncompress to Documents folder. 
 
 Cards and wallpapers are in png format. 
@@ -11,7 +14,9 @@ Mirror of cards original creators site: [mirror](https://drive.google.com/file/d
 
 Svg files of the original cardsetsL modified cards, [svg.zip](https://drive.google.com/file/d/1aAP6NY6Z5t4sLHY82xiqtPf8c_ImxIh3/view?usp=drive_link)
 
+## licences
 
+Cardsets are mostily under gpl and lgpl licences.
 
 The assets in the pokerdon.zip file are derived from the:  
 -Aisleriot project (https://gitlab.gnome.org/GNOME/aisleriot).   
