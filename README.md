@@ -18,7 +18,7 @@ Cards and wallpapers are in png format.
 
 Mirror of cards original creators site: [mirror](https://drive.google.com/file/d/1TxsI5EmXcHjCb__so6X-RcY4wAXKt5dz/view?usp=drive_link)
 
-Svg files of the original cardsetsL modified cards, [svg.zip](https://drive.google.com/file/d/1aAP6NY6Z5t4sLHY82xiqtPf8c_ImxIh3/view?usp=drive_link)
+Svg files of the original cardsets modified cards, [svg.zip](https://drive.google.com/file/d/1aAP6NY6Z5t4sLHY82xiqtPf8c_ImxIh3/view?usp=drive_link)
 
 ## licences
 
