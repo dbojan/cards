@@ -5,7 +5,7 @@ Can be used with **Poker Double or Nothing** game [steam site](https://store.ste
 
 ## how to use
 
-[Here](https://drive.google.com/drive/folders/1IKdBStg98QsZD06ZNUGFNoaA6au72vzI?usp=sharing) you can find **pokerdon.zip**/ v0.99a which contains additional cards and wallpapers. Uncompress them to Documents folder. 
+[Here](https://drive.google.com/drive/folders/1IKdBStg98QsZD06ZNUGFNoaA6au72vzI?usp=sharing) you can find **pokerdon.zip** v0.99a which contains additional cards and wallpapers. Uncompress them to Documents folder. 
 
 You should have Documents/pokerdon/cards, and Documents/pokerdon/wallpapers, and licences folders.
 
